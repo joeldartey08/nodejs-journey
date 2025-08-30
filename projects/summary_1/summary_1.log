@@ -1,0 +1,210 @@
+{
+  "date": "2025-08-30T19:30:09.139Z",
+  "cpu": {
+    "uptime": "79891.20s",
+    "free_memory": "423051264mb",
+    "total_memory": "4105953280.00mb",
+    "used_memory_percentage": "410595327989.69666%"
+  },
+  "_process": {
+    "uptime": "2.18s",
+    "rss": "24.68mb",
+    "heapUsed": "4.54mb"
+  }
+}
+
+{
+  "date": "2025-08-30T19:30:11.140Z",
+  "cpu": {
+    "uptime": "79893.20s",
+    "free_memory": "407257088mb",
+    "total_memory": "4105953280.00mb",
+    "used_memory_percentage": "410595327990.0813%"
+  },
+  "_process": {
+    "uptime": "4.19s",
+    "rss": "25.39mb",
+    "heapUsed": "4.61mb"
+  }
+}
+
+{
+  "date": "2025-08-30T19:30:13.148Z",
+  "cpu": {
+    "uptime": "79895.22s",
+    "free_memory": "435576832mb",
+    "total_memory": "4105953280.00mb",
+    "used_memory_percentage": "410595327989.39154%"
+  },
+  "_process": {
+    "uptime": "6.20s",
+    "rss": "25.45mb",
+    "heapUsed": "4.64mb"
+  }
+}
+
+{
+  "date": "2025-08-30T19:30:15.162Z",
+  "cpu": {
+    "uptime": "79897.23s",
+    "free_memory": "429260800mb",
+    "total_memory": "4105953280.00mb",
+    "used_memory_percentage": "410595327989.5454%"
+  },
+  "_process": {
+    "uptime": "8.21s",
+    "rss": "25.57mb",
+    "heapUsed": "4.72mb"
+  }
+}
+
+{
+  "date": "2025-08-30T19:30:17.173Z",
+  "cpu": {
+    "uptime": "79899.23s",
+    "free_memory": "430645248mb",
+    "total_memory": "4105953280.00mb",
+    "used_memory_percentage": "410595327989.51166%"
+  },
+  "_process": {
+    "uptime": "10.22s",
+    "rss": "25.64mb",
+    "heapUsed": "4.77mb"
+  }
+}
+
+{
+  "date": "2025-08-30T19:30:19.190Z",
+  "cpu": {
+    "uptime": "79901.25s",
+    "free_memory": "430276608mb",
+    "total_memory": "4105953280.00mb",
+    "used_memory_percentage": "410595327989.5206%"
+  },
+  "_process": {
+    "uptime": "12.23s",
+    "rss": "25.66mb",
+    "heapUsed": "4.80mb"
+  }
+}
+
+{
+  "date": "2025-08-30T19:30:21.190Z",
+  "cpu": {
+    "uptime": "79903.25s",
+    "free_memory": "515010560mb",
+    "total_memory": "4105953280.00mb",
+    "used_memory_percentage": "410595327987.457%"
+  },
+  "_process": {
+    "uptime": "14.24s",
+    "rss": "25.68mb",
+    "heapUsed": "4.82mb"
+  }
+}
+
+{
+  "date": "2025-08-30T19:30:23.204Z",
+  "cpu": {
+    "uptime": "79905.26s",
+    "free_memory": "500940800mb",
+    "total_memory": "4105953280.00mb",
+    "used_memory_percentage": "410595327987.7996%"
+  },
+  "_process": {
+    "uptime": "16.25s",
+    "rss": "25.71mb",
+    "heapUsed": "4.84mb"
+  }
+}
+
+{
+  "date": "2025-08-30T19:30:25.216Z",
+  "cpu": {
+    "uptime": "79907.28s",
+    "free_memory": "458895360mb",
+    "total_memory": "4105953280.00mb",
+    "used_memory_percentage": "410595327988.82367%"
+  },
+  "_process": {
+    "uptime": "18.26s",
+    "rss": "25.73mb",
+    "heapUsed": "4.87mb"
+  }
+}
+
+{
+  "date": "2025-08-30T19:41:51.981Z",
+  "cpu": {
+    "uptime": "80594.06s",
+    "free_memory": "389419008mb",
+    "total_memory": "4105953280.00mb",
+    "used_memory_percentage": "410595327990.51575%"
+  },
+  "_process": {
+    "uptime": "5.11s",
+    "rss": "24.42mb",
+    "heapUsed": "4.29mb"
+  }
+}
+
+{
+  "date": "2025-08-30T20:01:42.022Z",
+  "cpu": {
+    "uptime": "81784.19s",
+    "free_memory": "401076224mb",
+    "total_memory": "4105953280.00mb",
+    "used_memory_percentage": "410595327990.2319%"
+  },
+  "_process": {
+    "uptime": "5.09s",
+    "rss": "30.93mb",
+    "heapUsed": "4.29mb"
+  }
+}
+
+{
+  "date": "2025-08-30T20:01:47.019Z",
+  "cpu": {
+    "uptime": "81789.19s",
+    "free_memory": "380256256mb",
+    "total_memory": "4105953280.00mb",
+    "used_memory_percentage": "410595327990.7389%"
+  },
+  "_process": {
+    "uptime": "10.09s",
+    "rss": "31.52mb",
+    "heapUsed": "4.60mb"
+  }
+}
+
+{
+  "date": "2025-08-30T20:01:52.035Z",
+  "cpu": {
+    "uptime": "81794.20s",
+    "free_memory": "419835904mb",
+    "total_memory": "4105953280.00mb",
+    "used_memory_percentage": "410595327989.77496%"
+  },
+  "_process": {
+    "uptime": "15.10s",
+    "rss": "31.56mb",
+    "heapUsed": "4.63mb"
+  }
+}
+
+{
+  "date": "2025-08-30T20:01:57.041Z",
+  "cpu": {
+    "uptime": "81799.22s",
+    "free_memory": "394149888mb",
+    "total_memory": "4105953280.00mb",
+    "used_memory_percentage": "410595327990.4005%"
+  },
+  "_process": {
+    "uptime": "20.11s",
+    "rss": "31.64mb",
+    "heapUsed": "4.71mb"
+  }
+}
+

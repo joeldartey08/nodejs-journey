@@ -1,0 +1,15 @@
+{
+  "name": "summary_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "once": "node index.js --once",
+    "start": "node index.js",
+    "interval=300": "node index.js --interval=3000",
+    "interval=400": "node index.js --interval=4000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
