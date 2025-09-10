@@ -1,0 +1,16 @@
+{
+  "name": "file_manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fileManager.js",
+  "scripts": {
+    "start": "node fileManager",
+    "create": "node fileManager create",
+    "list": "node fileManager list",
+    "read": "node fileManager read",
+    "delete": "node fileManager delete"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
